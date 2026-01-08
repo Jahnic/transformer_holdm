@@ -1,0 +1,81 @@
+{
+  "skill": {
+    "total_players": 2,
+    "min_hands_threshold": 50,
+    "profitable_count": 1,
+    "losing_count": 1,
+    "profitable_pct": 50.0,
+    "profitable_hands": 704,
+    "losing_hands": 802,
+    "top_10_players": 0,
+    "top_10_hands": 0,
+    "top_10_min_profit": 0,
+    "top_20_players": 0,
+    "top_20_hands": 0,
+    "top_20_min_profit": 0,
+    "top_30_players": 0,
+    "top_30_hands": 0,
+    "top_30_min_profit": 0,
+    "top_50_players": 1,
+    "top_50_hands": 704,
+    "top_50_min_profit": 22177
+  },
+  "actions": {
+    "total_records": 1506,
+    "records_with_cards": 184,
+    "cards_known_pct": 12.217795484727755,
+    "preflop_actions": {
+      "c": 490,
+      "f": 756,
+      "B": 956,
+      "k": 175,
+      "r": 80,
+      "Q": 10,
+      "K": 1
+    },
+    "flop_actions": {
+      "r": 20,
+      "k": 394,
+      "f": 167,
+      "b": 77,
+      "c": 75,
+      "Q": 2,
+      "K": 1
+    },
+    "turn_actions": {
+      "b": 59,
+      "k": 261,
+      "f": 78,
+      "r": 10,
+      "c": 39,
+      "A": 1,
+      "Q": 3
+    },
+    "river_actions": {
+      "k": 177,
+      "c": 21,
+      "b": 48,
+      "f": 42,
+      "r": 5
+    }
+  },
+  "structure": {
+    "street_counts": {
+      "preflop_only": 18883,
+      "to_flop": 5787,
+      "to_turn": 0,
+      "to_river": 16359
+    },
+    "player_counts": {
+      "2": 14915,
+      "3": 11237,
+      "4": 7181,
+      "5": 3793,
+      "6": 2164,
+      "7": 1139,
+      "8": 407,
+      "9": 128,
+      "10": 65
+    }
+  }
+}

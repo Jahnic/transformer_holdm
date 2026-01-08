@@ -1,0 +1,6 @@
+{
+  "num_hands": 10000,
+  "num_train_examples": 88554,
+  "num_val_examples": 9840,
+  "synthetic": true
+}
